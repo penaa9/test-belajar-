@@ -10,6 +10,12 @@ class SatuHalaman extends StatefulWidget {
 class _SatuHalamanState extends State<SatuHalaman> {
   @override
   Widget build(BuildContext context) {
+
+  return Scaffold(
+
+  //scaffold
+  
+  );
     
   }
 }
